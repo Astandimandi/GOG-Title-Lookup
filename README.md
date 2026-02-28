@@ -22,8 +22,8 @@ So am I! No more I say!
 
 
 **What you will need**:
-Tampermonkey (or Violentmonkey)
-Firefox (preferably but i'm not your keeper)
+- Tampermonkey (or Violentmonkey)
+- Firefox (preferably but i'm not your keeper)
 
 **How to install**:
 1. Install Tampermonkey
