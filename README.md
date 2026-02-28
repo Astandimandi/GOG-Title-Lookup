@@ -26,6 +26,7 @@ So am I! No more I say!
 - Firefox (preferably but i'm not your keeper)
 
 **How to install**:
+
 Method 1:
 1. Install Tampermonkey
 2. Click on GOG Title Lookup - Info Box-1.1.user.js file in this repo
