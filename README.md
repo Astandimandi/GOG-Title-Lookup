@@ -26,11 +26,18 @@ So am I! No more I say!
 - Firefox (preferably but i'm not your keeper)
 
 **How to install**:
+Method 1:
 1. Install Tampermonkey
 2. Click on GOG Title Lookup - Info Box-1.1.user.js file in this repo
 3. Click "Raw", on the right
 4. Tampermonkey will ask to install
 5. Profit
+
+Method 2:
+1. Click on 
+2. open your browser
+3. Click Tampermonkey icon -> Dashboard
+4. 
 
 
 **Help! I can't install!** (ETA: 5 minutes)
