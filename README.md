@@ -34,10 +34,11 @@ Method 1:
 5. Profit
 
 Method 2:
-1. Click on 
-2. open your browser
-3. Click Tampermonkey icon -> Dashboard
-4. 
+1. Click on green Code button in this repo -> download zip
+2. Click Tampermonkey icon -> Dashboard
+3. Drag and drop user.js file into the Tampermonkey window
+4. Tampermonkey will open an install page
+5. Click Install
 
 
 **Help! I can't install!** (ETA: 5 minutes)
