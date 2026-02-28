@@ -33,7 +33,7 @@ So am I! No more I say!
 5. Profit
 
 
-**Help! I can't install!**
+**Help! I can't install!** (ETA: 5 minutes)
 1. Click Tampermonkey icon -> Create new Script
 2. Delete ALL the template code and paste in ALL the script 
    - Click on GOG Title Lookup - Info Box-1.1.user.js file just above here, and copy the script entirely
