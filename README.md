@@ -6,7 +6,7 @@ So am I! No more I say!
 
 
 What this script does:
-1. Reads game title from the download page
+1. Reads game title from the game's download page
 2. Looks up the PUBLIC relevant information from Steam store
 3. After a brief delay (1 second-ish), will output description in an info box on the top right
 4. You can choose to:
