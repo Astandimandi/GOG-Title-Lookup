@@ -1,7 +1,7 @@
 # GOG-Title-Lookup
 Simple Tampermonkey script that will look up game description from Steam and output to a little info box in your browser.
 
-Do you like GOG but find the lack of information doesn't gel? Tired of having to look up game titles in a separate tab? 
+Do you like GOG but find the lack of information doesn't gel? Tired of having to manually look up game titles in a separate tab? 
 So am I! No more I say!
 
 
