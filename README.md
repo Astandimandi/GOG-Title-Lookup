@@ -10,8 +10,8 @@ What this script does:
 2. Looks up the PUBLIC relevant information from Steam store
 3. After a brief delay (1 second-ish), will output description in an info box on the top right
 4. You can choose to:
-   a) Close the box OR
-   b) Click the "View on Steam" button and the relevant game's Steam page will open in a separate tab
+   - Close the box OR
+   - Click the "View on Steam" button and the relevant game's Steam page will open in a separate tab
 5. TA-DA!
 
 
@@ -35,11 +35,11 @@ How to install:
 Help! I can't install!
 1. Click Tampermonkey icon -> Create new Script
 2. Delete ALL the template code and paste in ALL the script 
-   a) Click on GOG Title Lookup - Info Box-1.1.user.js file just above here, and copy the script entirely
+   - Click on GOG Title Lookup - Info Box-1.1.user.js file just above here, and copy the script entirely
 3. Within Tampermonkey window, click File -> Save
 4. The script should be auto-enabled, but if you want to double check:
-   a) Tampermonkey icon -> Dashboard OR
-   b) Within the Tampermonkey window, click Installed Scripts tab
+   - Tampermonkey icon -> Dashboard OR
+   - Within the Tampermonkey window, click Installed Scripts tab
 5. If the script is ticked green, you're done!
 
 Please let me know of any issues, questions, or comments. Enjoy!
