@@ -27,9 +27,10 @@ So am I! No more I say!
 
 **How to install**:
 1. Install Tampermonkey
-2. Open GOG Title Lookup - Info Box-1.1.user.js file in this repo
-3. Click "Raw"
+2. Click on GOG Title Lookup - Info Box-1.1.user.js file in this repo
+3. Click "Raw", on the right
 4. Tampermonkey will ask to install
+5. Profit
 
 
 **Help! I can't install!**
